@@ -1,0 +1,253 @@
+State,Geo_Zone,LGA,Business_Activity_Index
+Lagos,South West,Lagos Central,100
+Lagos,South West,Lagos North,100
+Lagos,South West,Lagos South,100
+Lagos,South West,Lagos East,100
+Lagos,South West,Lagos West,100
+Lagos,South West,Lagos Metro,100
+Lagos,South West,Lagos Urban,100
+Lagos,South West,Lagos Rural,100
+Lagos,South West,Lagos Market,100
+Lagos,South West,Lagos Industrial,100
+Lagos,South West,Lagos Zone 11,100
+Lagos,South West,Lagos Zone 12,100
+Lagos,South West,Lagos Zone 13,100
+Lagos,South West,Lagos Zone 14,100
+Lagos,South West,Lagos Zone 15,100
+Lagos,South West,Lagos Zone 16,100
+Lagos,South West,Lagos Zone 17,100
+Lagos,South West,Lagos Zone 18,100
+Lagos,South West,Lagos Zone 19,100
+Lagos,South West,Lagos Zone 20,100
+FCT,North Central,FCT Central,95
+FCT,North Central,FCT North,95
+FCT,North Central,FCT South,95
+FCT,North Central,FCT East,95
+FCT,North Central,FCT West,95
+FCT,North Central,FCT Metro,95
+FCT,North Central,FCT Urban,95
+FCT,North Central,FCT Rural,95
+FCT,North Central,FCT Market,95
+FCT,North Central,FCT Industrial,95
+FCT,North Central,FCT Zone 11,95
+FCT,North Central,FCT Zone 12,95
+FCT,North Central,FCT Zone 13,95
+FCT,North Central,FCT Zone 14,95
+FCT,North Central,FCT Zone 15,95
+FCT,North Central,FCT Zone 16,95
+FCT,North Central,FCT Zone 17,95
+FCT,North Central,FCT Zone 18,95
+Rivers,South South,Rivers Central,90
+Rivers,South South,Rivers North,90
+Rivers,South South,Rivers South,90
+Rivers,South South,Rivers East,90
+Rivers,South South,Rivers West,90
+Rivers,South South,Rivers Metro,90
+Rivers,South South,Rivers Urban,90
+Rivers,South South,Rivers Rural,90
+Rivers,South South,Rivers Market,90
+Rivers,South South,Rivers Industrial,90
+Rivers,South South,Rivers Zone 11,90
+Rivers,South South,Rivers Zone 12,90
+Rivers,South South,Rivers Zone 13,90
+Rivers,South South,Rivers Zone 14,90
+Kano,North West,Kano Central,88
+Kano,North West,Kano North,88
+Kano,North West,Kano South,88
+Kano,North West,Kano East,88
+Kano,North West,Kano West,88
+Kano,North West,Kano Metro,88
+Kano,North West,Kano Urban,88
+Kano,North West,Kano Rural,88
+Kano,North West,Kano Market,88
+Kano,North West,Kano Industrial,88
+Kano,North West,Kano Zone 11,88
+Kano,North West,Kano Zone 12,88
+Kano,North West,Kano Zone 13,88
+Kano,North West,Kano Zone 14,88
+Kano,North West,Kano Zone 15,88
+Kano,North West,Kano Zone 16,88
+Oyo,South West,Oyo Central,82
+Oyo,South West,Oyo North,82
+Oyo,South West,Oyo South,82
+Oyo,South West,Oyo East,82
+Oyo,South West,Oyo West,82
+Oyo,South West,Oyo Metro,82
+Oyo,South West,Oyo Urban,82
+Oyo,South West,Oyo Rural,82
+Oyo,South West,Oyo Market,82
+Oyo,South West,Oyo Industrial,82
+Oyo,South West,Oyo Zone 11,82
+Oyo,South West,Oyo Zone 12,82
+Ogun,South West,Ogun Central,80
+Ogun,South West,Ogun North,80
+Ogun,South West,Ogun South,80
+Ogun,South West,Ogun East,80
+Ogun,South West,Ogun West,80
+Ogun,South West,Ogun Metro,80
+Ogun,South West,Ogun Urban,80
+Ogun,South West,Ogun Rural,80
+Ogun,South West,Ogun Market,80
+Ogun,South West,Ogun Industrial,80
+Kaduna,North West,Kaduna Central,77
+Kaduna,North West,Kaduna North,77
+Kaduna,North West,Kaduna South,77
+Kaduna,North West,Kaduna East,77
+Kaduna,North West,Kaduna West,77
+Kaduna,North West,Kaduna Metro,77
+Kaduna,North West,Kaduna Urban,77
+Kaduna,North West,Kaduna Rural,77
+Kaduna,North West,Kaduna Market,77
+Delta,South South,Delta Central,76
+Delta,South South,Delta North,76
+Delta,South South,Delta South,76
+Delta,South South,Delta East,76
+Delta,South South,Delta West,76
+Delta,South South,Delta Metro,76
+Delta,South South,Delta Urban,76
+Delta,South South,Delta Rural,76
+Anambra,South East,Anambra Central,83
+Anambra,South East,Anambra North,83
+Anambra,South East,Anambra South,83
+Anambra,South East,Anambra East,83
+Anambra,South East,Anambra West,83
+Anambra,South East,Anambra Metro,83
+Anambra,South East,Anambra Urban,83
+Anambra,South East,Anambra Rural,83
+Akwa Ibom,South South,Akwa Ibom Central,74
+Akwa Ibom,South South,Akwa Ibom North,74
+Akwa Ibom,South South,Akwa Ibom South,74
+Akwa Ibom,South South,Akwa Ibom East,74
+Akwa Ibom,South South,Akwa Ibom West,74
+Akwa Ibom,South South,Akwa Ibom Metro,74
+Akwa Ibom,South South,Akwa Ibom Urban,74
+Abia,South East,Abia Central,70
+Abia,South East,Abia North,70
+Abia,South East,Abia South,70
+Abia,South East,Abia East,70
+Abia,South East,Abia West,70
+Adamawa,North East,Adamawa Central,61
+Adamawa,North East,Adamawa North,61
+Adamawa,North East,Adamawa South,61
+Adamawa,North East,Adamawa East,61
+Adamawa,North East,Adamawa West,61
+Bauchi,North East,Bauchi Central,58
+Bauchi,North East,Bauchi North,58
+Bauchi,North East,Bauchi South,58
+Bauchi,North East,Bauchi East,58
+Bauchi,North East,Bauchi West,58
+Bayelsa,South South,Bayelsa Central,73
+Bayelsa,South South,Bayelsa North,73
+Bayelsa,South South,Bayelsa South,73
+Bayelsa,South South,Bayelsa East,73
+Bayelsa,South South,Bayelsa West,73
+Benue,North Central,Benue Central,64
+Benue,North Central,Benue North,64
+Benue,North Central,Benue South,64
+Benue,North Central,Benue East,64
+Benue,North Central,Benue West,64
+Borno,North East,Borno Central,50
+Borno,North East,Borno North,50
+Borno,North East,Borno South,50
+Borno,North East,Borno East,50
+Borno,North East,Borno West,50
+Cross River,South South,Cross River Central,67
+Cross River,South South,Cross River North,67
+Cross River,South South,Cross River South,67
+Cross River,South South,Cross River East,67
+Cross River,South South,Cross River West,67
+Ebonyi,South East,Ebonyi Central,65
+Ebonyi,South East,Ebonyi North,65
+Ebonyi,South East,Ebonyi South,65
+Ebonyi,South East,Ebonyi East,65
+Ebonyi,South East,Ebonyi West,65
+Edo,South South,Edo Central,72
+Edo,South South,Edo North,72
+Edo,South South,Edo South,72
+Edo,South South,Edo East,72
+Edo,South South,Edo West,72
+Ekiti,South West,Ekiti Central,68
+Ekiti,South West,Ekiti North,68
+Ekiti,South West,Ekiti South,68
+Ekiti,South West,Ekiti East,68
+Ekiti,South West,Ekiti West,68
+Enugu,South East,Enugu Central,78
+Enugu,South East,Enugu North,78
+Enugu,South East,Enugu South,78
+Enugu,South East,Enugu East,78
+Enugu,South East,Enugu West,78
+Gombe,North East,Gombe Central,57
+Gombe,North East,Gombe North,57
+Gombe,North East,Gombe South,57
+Gombe,North East,Gombe East,57
+Gombe,North East,Gombe West,57
+Imo,South East,Imo Central,79
+Imo,South East,Imo North,79
+Imo,South East,Imo South,79
+Imo,South East,Imo East,79
+Imo,South East,Imo West,79
+Jigawa,North West,Jigawa Central,55
+Jigawa,North West,Jigawa North,55
+Jigawa,North West,Jigawa South,55
+Jigawa,North West,Jigawa East,55
+Jigawa,North West,Jigawa West,55
+Kebbi,North West,Kebbi Central,53
+Kebbi,North West,Kebbi North,53
+Kebbi,North West,Kebbi South,53
+Kebbi,North West,Kebbi East,53
+Kebbi,North West,Kebbi West,53
+Kogi,North Central,Kogi Central,63
+Kogi,North Central,Kogi North,63
+Kogi,North Central,Kogi South,63
+Kogi,North Central,Kogi East,63
+Kogi,North Central,Kogi West,63
+Kwara,North Central,Kwara Central,69
+Kwara,North Central,Kwara North,69
+Kwara,North Central,Kwara South,69
+Kwara,North Central,Kwara East,69
+Kwara,North Central,Kwara West,69
+Nasarawa,North Central,Nasarawa Central,66
+Nasarawa,North Central,Nasarawa North,66
+Nasarawa,North Central,Nasarawa South,66
+Nasarawa,North Central,Nasarawa East,66
+Nasarawa,North Central,Nasarawa West,66
+Niger,North Central,Niger Central,60
+Niger,North Central,Niger North,60
+Niger,North Central,Niger South,60
+Niger,North Central,Niger East,60
+Niger,North Central,Niger West,60
+Ondo,South West,Ondo Central,71
+Ondo,South West,Ondo North,71
+Ondo,South West,Ondo South,71
+Ondo,South West,Ondo East,71
+Ondo,South West,Ondo West,71
+Osun,South West,Osun Central,70
+Osun,South West,Osun North,70
+Osun,South West,Osun South,70
+Osun,South West,Osun East,70
+Osun,South West,Osun West,70
+Plateau,North Central,Plateau Central,66
+Plateau,North Central,Plateau North,66
+Plateau,North Central,Plateau South,66
+Plateau,North Central,Plateau East,66
+Plateau,North Central,Plateau West,66
+Sokoto,North West,Sokoto Central,54
+Sokoto,North West,Sokoto North,54
+Sokoto,North West,Sokoto South,54
+Sokoto,North West,Sokoto East,54
+Sokoto,North West,Sokoto West,54
+Taraba,North East,Taraba Central,56
+Taraba,North East,Taraba North,56
+Taraba,North East,Taraba South,56
+Taraba,North East,Taraba East,56
+Taraba,North East,Taraba West,56
+Yobe,North East,Yobe Central,49
+Yobe,North East,Yobe North,49
+Yobe,North East,Yobe South,49
+Yobe,North East,Yobe East,49
+Yobe,North East,Yobe West,49
+Zamfara,North West,Zamfara Central,51
+Zamfara,North West,Zamfara North,51
+Zamfara,North West,Zamfara South,51
+Zamfara,North West,Zamfara East,51
+Zamfara,North West,Zamfara West,51

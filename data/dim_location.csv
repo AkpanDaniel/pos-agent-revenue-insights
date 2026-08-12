@@ -1,0 +1,37 @@
+State,Geo_Zone,Population,Urbanization_Index,Business_Activity_Index,Estimated_Agents
+Lagos,South West,23000000,0.95,100,2500
+FCT,North Central,3800000,0.92,95,900
+Rivers,South South,8200000,0.82,90,700
+Kano,North West,17000000,0.78,88,800
+Oyo,South West,8500000,0.74,82,600
+Ogun,South West,7000000,0.72,80,500
+Kaduna,North West,9200000,0.69,77,480
+Delta,South South,6200000,0.71,76,420
+Anambra,South East,6200000,0.76,83,400
+Akwa Ibom,South South,5600000,0.68,74,380
+Abia,South East,4200000,0.64,70,260
+Adamawa,North East,4800000,0.52,61,220
+Bauchi,North East,7800000,0.49,58,250
+Bayelsa,South South,2500000,0.67,73,180
+Benue,North Central,6100000,0.54,64,230
+Borno,North East,6200000,0.43,50,180
+Cross River,South South,4200000,0.59,67,210
+Ebonyi,South East,3200000,0.57,65,180
+Edo,South South,5100000,0.66,72,260
+Ekiti,South West,3200000,0.61,68,180
+Enugu,South East,4500000,0.71,78,260
+Gombe,North East,3600000,0.48,57,170
+Imo,South East,6200000,0.73,79,280
+Jigawa,North West,7000000,0.46,55,180
+Kebbi,North West,5200000,0.44,53,160
+Kogi,North Central,4500000,0.55,63,190
+Kwara,North Central,3600000,0.63,69,200
+Nasarawa,North Central,3000000,0.6,66,170
+Niger,North Central,6800000,0.5,60,220
+Ondo,South West,5200000,0.65,71,260
+Osun,South West,4800000,0.64,70,240
+Plateau,North Central,4500000,0.58,66,210
+Sokoto,North West,5900000,0.45,54,170
+Taraba,North East,3600000,0.47,56,160
+Yobe,North East,3900000,0.42,49,150
+Zamfara,North West,5200000,0.43,51,160

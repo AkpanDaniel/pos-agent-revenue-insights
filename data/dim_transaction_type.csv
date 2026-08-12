@@ -1,0 +1,6 @@
+Transaction_Type,Probability
+Cash Withdrawal,0.56
+Cash Deposit,0.17
+Bank Transfer,0.16
+Airtime,0.07
+Bill Payment,0.04
